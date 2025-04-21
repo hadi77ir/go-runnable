@@ -1,4 +1,4 @@
-package go_runnable
+package runnable
 
 import "testing"
 
